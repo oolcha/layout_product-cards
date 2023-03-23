@@ -6,13 +6,13 @@
   background-color: var(--light-color);
 }
 
-.card__image {
+.card__image-container {
   display: flex;
   justify-content: center;
   margin-bottom: 40px;
 }
 
-.img {
+.card__img {
   width: 160px;
   height: 134px;
 }
